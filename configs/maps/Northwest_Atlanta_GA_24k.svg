@@ -28,7 +28,7 @@
 		<rect x="107.268210" y="71.512140" width="11.918690" height="11.918690" style="fill:rgb(192,192,192);stroke:rgb(192,192,192);stroke-width:11.918690;stroke-linecap:round"/>
 		<rect x="107.268210" y="83.430830" width="11.918690" height="11.918690" style="fill:rgb(0,0,0);stroke:rgb(0,0,0);stroke-width:11.918690;stroke-linecap:round"/>
 		<rect x="107.268210" y="95.349520" width="11.918690" height="11.918690" style="fill:rgb(0,0,0);stroke:rgb(0,0,0);stroke-width:11.918690;stroke-linecap:round"/>
-		<rect x="107.268210" y="107.268210" width="11.918690" height="11.918690" style="fill:rgb(192,192,192);stroke:rgb(192,192,192);stroke-width:11.918690;stroke-linecap:round"/>
+	<!--	<rect x="107.268210" y="107.268210" width="11.918690" height="11.918690" style="fill:rgb(192,192,192);stroke:rgb(192,192,192);stroke-width:11.918690;stroke-linecap:round"/>-->
 		<rect x="119.186900" y="83.430830" width="11.918690" height="11.918690" style="fill:rgb(192,192,192);stroke:rgb(192,192,192);stroke-width:11.918690;stroke-linecap:round"/>
 		<rect x="119.186900" y="95.349520" width="11.918690" height="11.918690" style="fill:rgb(192,192,192);stroke:rgb(192,192,192);stroke-width:11.918690;stroke-linecap:round"/>
 	</pattern>
